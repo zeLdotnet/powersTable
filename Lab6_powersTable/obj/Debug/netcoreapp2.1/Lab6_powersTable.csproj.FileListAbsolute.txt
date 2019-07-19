@@ -1,0 +1,11 @@
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab6_powersTable\Lab6_powersTable\bin\Debug\netcoreapp2.1\Lab6_powersTable.deps.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab6_powersTable\Lab6_powersTable\bin\Debug\netcoreapp2.1\Lab6_powersTable.runtimeconfig.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab6_powersTable\Lab6_powersTable\bin\Debug\netcoreapp2.1\Lab6_powersTable.runtimeconfig.dev.json
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab6_powersTable\Lab6_powersTable\bin\Debug\netcoreapp2.1\Lab6_powersTable.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab6_powersTable\Lab6_powersTable\bin\Debug\netcoreapp2.1\Lab6_powersTable.pdb
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab6_powersTable\Lab6_powersTable\obj\Debug\netcoreapp2.1\Lab6_powersTable.csprojAssemblyReference.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab6_powersTable\Lab6_powersTable\obj\Debug\netcoreapp2.1\Lab6_powersTable.csproj.CoreCompileInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab6_powersTable\Lab6_powersTable\obj\Debug\netcoreapp2.1\Lab6_powersTable.AssemblyInfoInputs.cache
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab6_powersTable\Lab6_powersTable\obj\Debug\netcoreapp2.1\Lab6_powersTable.AssemblyInfo.cs
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab6_powersTable\Lab6_powersTable\obj\Debug\netcoreapp2.1\Lab6_powersTable.dll
+C:\Users\zeL\grandCircus\labs\grandRepo\Lab6_powersTable\Lab6_powersTable\obj\Debug\netcoreapp2.1\Lab6_powersTable.pdb
